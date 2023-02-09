@@ -1,4 +1,4 @@
 # spade
- My first website written in html and css
+ portfolio connection to website
 
  Url: [spade.xyz](https://spade.github.io/
